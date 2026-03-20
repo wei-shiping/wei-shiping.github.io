@@ -19,7 +19,7 @@ export default defineConfig({
   base: "./",
   plugins: [vue(), fileOpenFriendlyBuildPlugin()],
   build: {
-    outDir: "docs",
+    outDir: "dist",
     cssCodeSplit: false,
     modulePreload: false,
     rollupOptions: {
