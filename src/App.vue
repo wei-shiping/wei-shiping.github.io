@@ -2,6 +2,7 @@
 
 <template>
   <div class="container">
+    12341234
     <div class="resume_box">
       <img
         src="./assets/images/A1.png"
